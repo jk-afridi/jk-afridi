@@ -6,7 +6,7 @@ Right now I'm deep into reinforcement learning — I built a [3D UAV navigation 
 
 I like problems where math meets code. RL, optimization, systems that learn from interaction.
 
-CS undergrad. Based in Pakistan. Looking for internships where I can break things and build them back better.
+
 
 ---
 
