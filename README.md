@@ -28,6 +28,6 @@ CS undergrad. Based in Pakistan. Looking for internships where I can break thing
 ---
 
 <p>
-<a href="linkedin.com/in/jawadk63">linkedin</a> · 
+<a href="https://linkedin.com/in/jawadk63">linkedin</a> · 
 <a href="mailto:jawadahmedkhan45@gmail.com">email</a>
 </p>
