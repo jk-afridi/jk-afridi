@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey%2C+I'm+Jawad+Afridi+%F0%9F%91%8B;I+build+things+that+think."  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey%2C+I'm+Jawad+Afridi+%F0%9F%91%8B;I+build+things+that+think." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-###  About Me
+### About Me
 
 CS undergrad who builds ML systems, not just notebooks. I like problems where **math meets code** — reinforcement learning, retrieval-augmented generation, recommendation engines, real-time computer vision.
 
