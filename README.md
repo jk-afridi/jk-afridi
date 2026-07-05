@@ -72,12 +72,12 @@ Everything I ship runs locally, is modular, and is evaluated rigorously. No API 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jk-afridi&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jk-afridi&theme=github-dark-blue&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jk-afridi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=jk-afridi&theme=github-dark-blue&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk-afridi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jk-afridi&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" width="40%" />
 </p>
 
 ---
